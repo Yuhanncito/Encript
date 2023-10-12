@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Arimo:wght@600&display=swap');
+
+
+
+a{
+  font-family: 'Arimo', sans-serif;
+}
+
+.hover:hover {
+  background-color: rgb(17, 53, 198);
+}
+
